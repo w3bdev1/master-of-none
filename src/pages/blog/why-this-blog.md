@@ -3,7 +3,6 @@ layout: "../../layouts/BlogPost.astro"
 title: "Why this blog"
 description: "Why does “Master of None” exist?"
 pubDate: "Sep 28 2022"
-heroImage: "/mon-banner.png"
 ---
 
 # Introspection
